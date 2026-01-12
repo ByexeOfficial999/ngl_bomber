@@ -8,7 +8,7 @@ pkg update && pkg upgrade
 pkg install python
 pkg install python-pip
 pkg install git
-git clone https://github.com/DaemonTechX/ngl_bomber
+git clone https://github.com/ByexeOfficial999/ngl_bomber
 cd ngl_bomber
 pip install requests
 python ngl_bomber.py
